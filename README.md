@@ -1,6 +1,6 @@
 # Gradle-AutoFix: An Automatic Resolution Generator For Gradle Build Error
 
-## Abstract
+## Introduction
 Gradle is one of the widely used tools to automatically build a software project. While
 developers execute the Gradle build for projects, they face various build errors in practice.
 However, fixing build errors is not easy because developers manually should find out the
